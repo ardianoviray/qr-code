@@ -1,2 +1,2 @@
 # qr-code
-My first repository on GitHub.
+My repository for QR-code challenge by Frontend Mentor
